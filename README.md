@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/27078897/179077324-74842cf2-be0b-4801-a3ab-90a5fcfa11f4.png" height="300px"/>
 
-Sprig é um ambiente baseado em web para a criação de jogos 2D. Esses jogos rodam no navegador e no Sprig Console, um console de videogame onde cada usuário é um criador. O único jeito de conseguir um Sprig Console é criar um jogo para ele, e compartilhar na [Sprig Gallery](https://sprig-gallery.hackclub.dev)
+Sprig é um ambiente baseado em web para a criação de [jogos baseados em ladrilhos](https://pt.wikipedia.org/wiki/Jogo_eletrônico_baseado_em_ladrilho). Esses jogos rodam no navegador e no Sprig Console, um console de videogame onde cada usuário é um criador. O único jeito de conseguir um Sprig Console é criar um jogo para ele, e compartilhar na [Sprig Gallery](https://sprig-gallery.hackclub.dev)
 
 ## Filosofia
 
