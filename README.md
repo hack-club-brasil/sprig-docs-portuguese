@@ -32,7 +32,7 @@ yarn dev
 
 Acesse <http://localhost:3000> no seu navegador web e deve funcionar!
 
-## License
+## Licença
 
 O Hack Club Sprig é open source e licenciado sobre a [Licença MIT](./LICENSE). Faça um fork, remixe, ou faça seu próprio! Pull requests e outras contribuições são fortemente apreciadas.
 
