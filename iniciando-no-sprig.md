@@ -154,7 +154,7 @@ Você pode fazer algo ao pressionar um botão, como:
 
 ```js
 onInput("w", () => {
-  getFirst(player).y -= 1;
+  getFirst(jogador).y -= 1;
 });
 ```
 
@@ -164,19 +164,19 @@ Repetindo esse padrão, podemos adicionar movimentos para cima/baixo/esquerda/di
 
 ```js
 onInput("w", () => {
-  getFirst(player).y -= 1;
+  getFirst(jogador).y -= 1;
 });
 
 onInput("s", () => {
-  getFirst(player).y += 1;
+  getFirst(jogador).y += 1;
 });
 
 onInput("a", () => {
-  getFirst(player).x -= 1;
+  getFirst(jogador).x -= 1;
 });
 
 onInput("d", () => {
-  getFirst(player).x += 1;
+  getFirst(jogador).x += 1;
 });
 ```
 
@@ -446,3 +446,7 @@ afterInput(() => {
   }
 });
 ```
+
+### Arquivo Original
+
+Acesse o arquivo original [aqui](https://github.com/hackclub/sprig/blob/main/docs/docs.md)
