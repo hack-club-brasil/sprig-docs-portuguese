@@ -23,13 +23,13 @@ Adicione o comentário abaixo.
 
 Selecione "save" e então "as js". Seu download deve começar imediatamente.
 
-<img width="1219" alt="0download" src="https://user-images.githubusercontent.com/27078897/184409285-e9146ae7-4693-4c79-a26c-261633073522.png">
+<img width="1219" alt="0download" src="https://cloud-j5z0vzmv4-hack-club-bot.vercel.app/0image.png">
 
 ## Passo 2: Faça um Fork do Repositório
 
 Clique "Fork" [nesta página](https://github.com/hackclub/sprig/tree/main/games).
 
-<img width="1414" alt="0screenshot_2022-07-07_at_11 40 19_pm" src="https://user-images.githubusercontent.com/27078897/184409407-eb604178-e110-44d4-a90d-abce77e7445e.png">
+<img width="1414" alt="0screenshot_2022-07-07_at_11 40 19_pm" src="https://cloud-1ej4k5vyu-hack-club-bot.vercel.app/0image.png">
 
 ## Passo 3: Faça o Upload do seu Jogo para o Fork
 
@@ -38,7 +38,7 @@ Clique "Fork" [nesta página](https://github.com/hackclub/sprig/tree/main/games)
 - Selecione "Upload File"
 - Adicione um arquivo e clique em "Commit File"
 
-<img width="1458" alt="0screenshot_2022-07-07_at_11 51 32_pm" src="https://user-images.githubusercontent.com/27078897/184409578-6d29903c-9d70-4524-b63b-4fac7ba6e73e.png">
+<img width="1458" alt="0screenshot_2022-07-07_at_11 51 32_pm" src="https://cloud-1ej4k5vyu-hack-club-bot.vercel.app/0image.png">
 
 ## Passo 4: Crie uma Pull Request
 
@@ -50,7 +50,7 @@ Clique "Fork" [nesta página](https://github.com/hackclub/sprig/tree/main/games)
 
 Assim que aprovarmos, seu jogo vai aparecer na galeria :)
 
-<img width="1458" alt="0screenshot_2022-07-07_at_11 52 55_pm" src="https://user-images.githubusercontent.com/27078897/184409792-3863eb41-c93e-4dd5-aaf3-5dc2952628ce.png">
+<img width="1458" alt="0screenshot_2022-07-07_at_11 52 55_pm" src="https://cloud-1ej4k5vyu-hack-club-bot.vercel.app/0image.png">
 
 ## Opcional: Adicione uma Capa Customizada
 
@@ -64,7 +64,7 @@ Por padrão a capa vai ser o primeiro mapa do seu jogo. Se você quer modificar 
 - Nomear o arquivo de imagem do mesmo nome que o arquivo do seu jogo
 - Clique em "Commit File"
 
-<img width="1458" alt="0screenshot_2022-07-07_at_11 52 55_pm-1" src="https://user-images.githubusercontent.com/27078897/184410129-a2dbf444-ae7e-442b-b4bd-d3f21ede54cc.png">
+<img width="1458" alt="0screenshot_2022-07-07_at_11 52 55_pm-1" src="https://cloud-9uttg6gyv-hack-club-bot.vercel.app/0image.png">
 
 ## Arquivo Original
 
