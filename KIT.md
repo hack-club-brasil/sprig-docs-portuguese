@@ -1,4 +1,4 @@
-# Guia de montagem do raminho
+# Guia de montagem do Sprig
 
 ## Conteúdo
 
