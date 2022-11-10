@@ -51,3 +51,7 @@
 7. Coloque 2 pilhas AAA (não incluídas).
 
 ![Foto de um console portátil montado](https://cloud-93zuth77c-hack-club-bot.vercel.app/0img_1613.jpg)
+
+# Arquivo original
+
+Acesse o arquivo original [aqui](https://github.com/hackclub/sprig/blob/main/docs/ASSEMBLY.md)
