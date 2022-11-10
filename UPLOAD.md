@@ -31,7 +31,7 @@ Ele deve aparecer no seu menu de arquivos como um drive separado, igual a um pen
 Apenas solte o arquivo .uf2 lá e pronto! O dispositivo deve reiniciar imediatamente e mostrar a logo do sprig :)
 
 ## Legal, mas e o MEU jogo?
-![drop!](assets/upload_button.png)
+![drop!](https://cloud-7fl999odl-hack-club-bot.vercel.app/0screenshot3.png)
 
 Abra seu jogo no editor, clique no botão de upload, e então selecione o Sprig a partir do menu (novamente, igual se fosse um pendrive USB.)
 
