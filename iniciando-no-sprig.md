@@ -25,7 +25,7 @@ setLegend(
 
 Clique no bitmap para abrir o editor de pixels e desenhar uma imagem para o nosso sprite.
 
-![Screen Recording 2022-07-18 at 12 24 08 PM](https://user-images.githubusercontent.com/27078897/179599823-be112b5d-3fe6-4c7f-b1ca-d741ef5b5bcb.gif)
+![Screen Recording 2022-07-18 at 12 24 08 PM](https://user-images.githubusercontent.com/27078897/197604643-2a59cc85-5a07-446d-95b3-d9be844b62c0.gif)
 
 O bitmap é armazenado como uma string. Para dar uma olhada nela, clique na pequena seta próxima ao número da linha. Você consegue minimizar isso clicando na mesma área novamente.
 
@@ -125,7 +125,7 @@ Agora nós temos apenas uma fase.
 Clique em `map` para abrir o editor de mapas. 
 __Certifique-se de apertar run__ para carregar a legenda antes de editar o mapa.
 
-![Screen Recording 2022-07-18 at 3 17 36 PM](https://user-images.githubusercontent.com/27078897/179600230-f29db474-9fcb-4829-94e5-d2f283bd03ad.gif)
+![Screen Recording 2022-07-18 at 3 17 36 PM](https://user-images.githubusercontent.com/27078897/197605676-4c1e7a9b-3acc-41f5-a958-8e15dc55ba91.gif)
 
 Para definir o mapa, utilize `setMap`.
 
@@ -180,7 +180,7 @@ onInput("d", () => {
 });
 ```
 
-![Screen Recording 2022-07-18 at 3 20 09 PM](https://user-images.githubusercontent.com/27078897/179600584-3d5de630-6a63-436c-9c39-e811b592be12.gif)
+![Screen Recording 2022-07-18 at 3 20 09 PM](https://user-images.githubusercontent.com/27078897/197607562-15d0146f-329c-4b90-ac91-584d1290528e.gif)
 
 
 ### Adicionando Comportamentos
@@ -195,7 +195,7 @@ setSolids([ jogador, caixa, parede ]);
 
 Agora esses sprites não vão se sobrepor um ao outro.
 
-![Screen Recording 2022-07-18 at 3 21 10 PM](https://user-images.githubusercontent.com/27078897/179600717-804753a6-4498-4432-b9f4-8bee9633adb3.gif)
+![Screen Recording 2022-07-18 at 3 21 10 PM](https://user-images.githubusercontent.com/27078897/197606834-9c3c3e48-84bd-49a3-938e-43eea8ea05ce.gif)
 
 No entanto, queremos que o jogador empurre caixas, e podemos definir esse comportamento com `setPushables`.
 
@@ -209,7 +209,7 @@ O argumento passado para a função de definir empurráveis (`setPushables`) sig
 
 Vamos ver como isso está agora.
 
-![Screen Recording 2022-07-18 at 3 22 43 PM](https://user-images.githubusercontent.com/27078897/179601035-0e7b751c-2767-47ea-b2bd-5d0497b4547f.gif)
+![Screen Recording 2022-07-18 at 3 22 43 PM](https://user-images.githubusercontent.com/27078897/197606970-76f14b26-b3b2-44dd-ac96-a3459613a7b9.gif)
 
 ### Condição de Vitória
 
@@ -251,7 +251,7 @@ j.p.
 ];
 ```
 
-![Screen Recording 2022-07-18 at 3 24 08 PM](https://user-images.githubusercontent.com/27078897/179601256-55d6a5cd-7135-490a-bb46-1ed3d8537e06.gif)
+![Screen Recording 2022-07-18 at 3 24 08 PM](https://user-images.githubusercontent.com/27078897/197607684-45683107-fb28-4900-95ff-cd0b1b69c1f5.gif)
 
 ### Polir
 
