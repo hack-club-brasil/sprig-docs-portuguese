@@ -21,7 +21,7 @@ Adicione o comentário abaixo.
 
 ## Passo 1: Baixe seu Arquivo de Jogo
 
-Selecione "save" e então "as js". Seu download deve começar imediatamente.
+Selecione "download file". Seu download deve começar imediatamente.
 
 <img width="1219" alt="0download" src="https://cloud-j5z0vzmv4-hack-club-bot.vercel.app/0image.png">
 
